@@ -23,10 +23,8 @@ A platform connecting learners with non-scholastic courses, activities, and inst
 
 ---
 
-## 🎨 Design Guidelines & Aesthetics
+## 🎨 Design & Aesthetics
 
-* **Theme**: Playful scrapbook / paper notebook aesthetics.
-* **Texture**: Crumpled paper backgrounds, paperclip accents, doodle borders, cutout star buttons.
 * **Assets**: All stickers, custom backgrounds, and icons must be placed in `/assets`.
 
 ---
