@@ -1,4 +1,4 @@
-# Nonscholastic 🎨
+# Nonscholastic 
 A platform connecting learners with non-scholastic courses, local activities, and mentors near them.
 
 ---
